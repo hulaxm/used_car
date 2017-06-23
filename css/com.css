@@ -1,0 +1,38 @@
+.pic_nav img{
+	width: 100%;
+}
+.car_nav{
+	width: 100%;
+}
+#cars{
+	width: 49%;	
+}
+#price{
+	width: 49%;
+}
+.car_info{
+	height: 150px;
+	width: 100%;
+	border-top: 1px solid #dedede;
+	margin-top: 5px;
+	padding: 5px;
+}
+.car_content{
+	 width: 100%;
+	 height: 100px;
+}
+.car_content img{
+	width: 40%;	 
+}
+.content{
+	margin-left: 4px;	 
+	display: inline-block;
+	width: 55%;
+}
+.content div{
+	line-height: 25px;
+}
+.car_pric{
+	color: red;
+	font-weight: bold;
+}
